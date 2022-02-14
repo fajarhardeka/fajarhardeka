@@ -1,4 +1,4 @@
-<h1>Hey! Hallo!</h1>
+<h1>Hay! Hallo!</h1>
 
 
 <p>Welcome to my page! </br> I'm Fajar Hardeka, Teaching Computer Science and Network Engineering at Vocational High School.</p>
