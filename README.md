@@ -2,7 +2,7 @@
 
 
 <p>Welcome to my github! </br> I'm Fajar Hardeka, Teacher Computer Science and Network Engineering at Vocational High School.</p>
-<h3>Lecturer Assistant, Computer Science</h3>
+<p>Lecturer Assistant, Computer Science<p>
 <h3>For now learning about</h3>
 <p>
   
