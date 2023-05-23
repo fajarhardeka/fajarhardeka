@@ -1,6 +1,3 @@
-<h1>Hay! Hallo!</h1>
-
-
 <p>Welcome to my github! </br> I'm Fajar Hardeka, Teacher Computer Science and Network Engineering at Vocational High School.</p>
 <p>Lecturer Assistant, Computer Science.<p>
 <h3>For now learning about</h3>
