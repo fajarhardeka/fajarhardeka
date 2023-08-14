@@ -1,7 +1,7 @@
 
 
-<p>Holla! </br> I'm Fajar Hardeka, Teacher Computer Science and Network Engineering at Vocational High School.</p>
-<p>Lecturer Assistant, Computer Science.<p>
+<p>Holla! </br> I'm Fajar Hardeka, Teacher Computer Science and Network Engineering at Vocational High School.(SMKS PANCA BHAKTI RAKIT)</p>
+<p>Lecturer Assistant, Computer Science.(STIMIK TUNAS BANGSA BANJARNEGARA)<p>
 <!-- <h3>For now learning about</h3> -->
 <p>
   
