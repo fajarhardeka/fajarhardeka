@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=fajarhardeka&color=blue)
+#![](https://komarev.com/ghpvc/?username=fajarhardeka&color=blue)
 <p>Holla! </br> I'm Fajar Hardeka, Teacher Computer Science and Network Engineering at Vocational High School.</p>
 <p>Lecturer Assistant, Computer Science.<p>
 <!-- <h3>For now learning about</h3> -->
